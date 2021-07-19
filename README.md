@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeramiahgcoffey
 - 👀 I’m interested in learning new programming languages.
-- 🌱 I’m currently learning javascript, while I wait to start my BS program.
+- 🌱 I’m currently studying Computer Science and working towards a BS.
 - 💞️ I’m looking to collaborate on anything! The more experience the better.
 - 📫 You can reach me at jerrygcoffey@gmail.com
 
