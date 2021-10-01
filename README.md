@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeramiahgcoffey
-- 👀 I’m interested in AI, ML, mastering Python, and learning new programming languages.
-- 🌱 I’m currently studying Computer Science and working towards a Bachelor of Science degree.
+- 👀 I’m interested in AI, Python, Web Development and learning new programming techniques.
+- 🌱 I’m currently studying Computer Science and working towards a Bachelor of Science degree. My goal is to become a full-stack developer.
 - 💞️ I’m looking to collaborate on anything! The more experience the better.
 - 📫 You can reach me at jerrygcoffey@gmail.com
 
