@@ -1,5 +1,4 @@
-# Welcome to my Github!
-### 👋 Hello world, I’m @jeramiahgcoffey
+# 👋 Hello world! I’m @jeramiahgcoffey
 
 Here's a little bit of information about myself, so you can get to know me better:
 
