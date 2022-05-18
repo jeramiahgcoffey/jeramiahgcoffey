@@ -2,7 +2,7 @@
 
 Here's a little bit of information about myself, so you can get to know me better:
 
-- 😃 Nothings brings me more joy than spending time with my daughter, but I also like to spend my time:
+- 😃 Nothing brings me more joy than spending time with my daughter, but I also like to spend my time:
     - Coding
     - Jeeping
     - Camping
