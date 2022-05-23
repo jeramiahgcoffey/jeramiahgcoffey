@@ -9,7 +9,7 @@ Here's a little bit of information about myself, so you can get to know me bette
     - Mountain Biking
     - Fantasizing about better ways Game of Thrones S8 could have ended...
 - 👀 I’m interested in Web Development, Machine Learning, AI, and learning new programming techniques.
-- 🌱 I’m currently studying Computer Science at Western Governors University. My objective is to work as a Software Engineer.
+- 🌱 I’m currently studying Computer Science at Western Governors University. My objective is to work as a Software Development Engineer.
 - 💞️ I would love to collaborate on any type of project! I always appreciate a chance to learn something new.
 - 📫 Please reach out to me at jeramiahcoffey.dev@gmail.com
 
