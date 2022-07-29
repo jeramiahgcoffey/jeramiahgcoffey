@@ -7,6 +7,7 @@ Here's a little bit of information about myself, so you can get to know me bette
     - Jeeping
     - Camping
     - Mountain Biking
+    - Listening to electronic music
     - Fantasizing about better ways Game of Thrones S8 could have ended...
 - 🌱 Currently studying Computer Science at Western Governors University
 - 👨‍💻 Employed as a Software Developer at RateGenius
