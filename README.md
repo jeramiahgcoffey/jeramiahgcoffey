@@ -10,7 +10,6 @@ Here's a little bit of information about myself, so you can get to know me bette
     - Listening to electronic music
     - Fantasizing about better ways Game of Thrones S8 could have ended...
 - 🌱 Currently studying Computer Science at Western Governors University
-- 👨‍💻 Employed as a Software Engineer at RateGenius
 - 👀 I’m interested in Web Development, Machine Learning, and AI. I am also intrigued by cool tech in general.
 - 💞️ I would love to collaborate on any type of project! I always appreciate a chance to learn something new.
 - 📫 Please reach out to me at jeramiahcoffey.dev@gmail.com
