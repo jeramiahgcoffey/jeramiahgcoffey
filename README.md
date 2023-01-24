@@ -1,4 +1,4 @@
-# 👋 Hello world! I’m @jeramiahgcoffey
+# 👋 Hello world! I’m Jeramiah
 
 Here's a little bit of information about myself, so you can get to know me better:
 
