@@ -1,21 +1,17 @@
-# 👋 Hello world! I’m Jeramiah
+# Hello and welcome friend!
+[![Linkedin: jeramiah-coffey](https://img.shields.io/badge/-jeramiahcoffey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeramiah-coffey/)](https://www.linkedin.com/in/jeramiah-coffey/)
+[![Gmail Badge](https://img.shields.io/badge/-jeramiah@jeramiahcoffey.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeramiah@jeramiahcoffey.com)](mailto:jeramiah@jeramiahcoffey.com)
+[![GitHub jeramiahgcoffey](https://img.shields.io/github/followers/jeramiahgcoffey?label=follow&style=social)](https://github.com/jeramiahgcoffey)
 
-Here's a little bit of information about myself, so you can get to know me better:
 
-- 😃 Nothing brings me more joy than spending time with my daughter, but I also like to spend my time:
-    - Coding
-    - Jeeping
-    - Camping
-    - Mountain Biking
-    - Developing my skillsets
-    - Listening to electronic music
-    - Fantasizing about better ways Game of Thrones S8 could have ended...
-- 🌱 Currently, I'm studying Computer Science at Western Governors University
-- 👀 I’m interested in Web Development, Machine Learning, and AI. I'm also intrigued by cool tech in general.
-- 💞️ I would love to collaborate on any type of project! I always appreciate a chance to learn something new.
-- 📫 Please reach out to me at jeramiahcoffey.dev@gmail.com
+### I'm Jeramiah, a Software Engineer, Jeeper, and Self-Proclaimed Cool Dad
+In my free time I enjoy:
+- coding
+- camping
+- video games
+- djing
+- playing dolls with my daughter
+- exercising skills
+- learning new things
 
-<!---
-jeramiahgcoffey/jeramiahgcoffey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I hope you enjoy my repositoies! Feel free to shoot me an email with any inquires, questions, advice or opportunities.
