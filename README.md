@@ -14,4 +14,4 @@ In my free time I enjoy:
 - exercising skills
 - learning new things
 
-#### I hope you enjoy my repositoies! Feel free to shoot me an email with any inquires, questions, advice or opportunities.
+#### I hope you enjoy my repositoies! Feel free to contact me with any inquires, questions, advice or opportunities.
