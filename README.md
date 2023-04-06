@@ -6,7 +6,7 @@
 
 ### I'm Jeramiah, a Software Engineer, Jeeper, and Self-Proclaimed Cool Dad
 
-I Specialize in developing web solutions in the JavaScript ecosystem. I have a curiosity for cool tech and talented humans. My objective is to be a leader for a team that's focused on developing software aimed to better people's lives.
+I specialize in developing web solutions in the JavaScript ecosystem. I have a curiosity for cool tech and talented humans. 
 
 In my free time I enjoy:
 - coding
