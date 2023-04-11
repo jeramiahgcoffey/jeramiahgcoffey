@@ -4,7 +4,7 @@
 [![GitHub jeramiahgcoffey](https://img.shields.io/github/followers/jeramiahgcoffey?label=follow&style=social)](https://github.com/jeramiahgcoffey)
 
 
-### I'm Jeramiah, a Software Engineer, Jeeper, and Self-Proclaimed Cool Dad
+### I'm Jeramiah - Software Dev, Jeeper, and Self-Proclaimed Cool Dad
 
 I specialize in developing web solutions in the JavaScript ecosystem. I have a curiosity for cool tech and talented humans. 
 
