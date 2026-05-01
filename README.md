@@ -11,6 +11,7 @@ I specialize in developing web solutions in the JavaScript ecosystem. I have a c
 In my down time I enjoy:
 - coding
 - camping
+- Off Roading 
 - video games
 - electronic music
 - djing
