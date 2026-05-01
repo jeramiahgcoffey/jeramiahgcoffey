@@ -25,11 +25,11 @@ off-screen: jeep, two kids, the occasional DJ set, too much electronic music.
 ### stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeramiahgcoffey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeramiahgcoffey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=jeramiahgcoffey&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeramiahgcoffey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeramiahgcoffey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 
 ### reach
 
