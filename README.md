@@ -12,6 +12,7 @@ In my down time I enjoy:
 - coding
 - camping
 - video games
+- electronic music
 - djing
 - playing with my kids
 - exercising skills
